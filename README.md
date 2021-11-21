@@ -7,8 +7,8 @@
 <a href="https://github.com/JessyTsu1/LNU_Thesis/issues"><img alt="Travis CI" src="https://img.shields.io/badge/build-done-blue"/></a>
 </p>
 
+<h1 align="center"><a href="http://119.29.52.131:8090" target="_blank">阑干</a></h1>
 
-<h1 align="center"><a href="blog.jessytsui.cn" target="_blank">阑干</a></h1>
 
 > 欢迎来我的博客游玩
 
